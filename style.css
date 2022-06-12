@@ -1,0 +1,17 @@
+body {
+    width: 300px;
+    height: 200px;
+    background-color:aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inline-flex;
+    margin: 10px 10px;
+    font-size: 22px;
+    border-radius: 6px;
+    color:blue;
+    border: 1px solid lightskyblue;
+    padding: 10px;
+}
